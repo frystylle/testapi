@@ -1,14 +1,9 @@
 {
-  "posts": [
+  "posts": 
       {
         "label": "1",
         "value": "11"
       },
-      {
-        "label": "22",
-        "value": "22"
-      }
-  ],
   "profile": {
     "name": "typicode"
   }
